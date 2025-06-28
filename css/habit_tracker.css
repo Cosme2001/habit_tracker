@@ -1,0 +1,28 @@
+#title{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(80, 79, 79);
+}
+
+.add_button{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#border-box{
+    display: flex;
+    justify-content: baseline;
+    border: dashed;
+}
+
+#habits{
+    border: 2px dashed black;
+    padding: 1%;
+    width: 45%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 8px;
+}
